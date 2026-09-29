@@ -20,7 +20,7 @@ The dashboard provides an interactive overview of procurement spending and allow
 
 ## Dashboard Preview
 
-![Procurement Dashboard](screenshots/procurement-dashboard.png)
+![Procurement Dashboard](Screenshot%20Dashboard.png)
 
 ---
 
